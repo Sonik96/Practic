@@ -7,12 +7,12 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversity.DAL;
-using ContosoUniversity.Models;
-using ContosoUniversity.ViewModels;
+using Universyty.DAL;
+using Universyty.Models;
+using Universyty.ViewModels;
 
 
-namespace ContosoUniversity.Controllers
+namespace Universyty.Controllers
 {
     public class InstructorController : Controller
     {

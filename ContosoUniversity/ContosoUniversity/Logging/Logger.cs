@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Web;
 
-namespace ContosoUniversity.Logging
+namespace Universyty.Logging
 {
     public class Logger : ILogger
     {

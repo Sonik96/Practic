@@ -1,4 +1,4 @@
-namespace ContosoUniversity.Migrations
+namespace Universyty.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

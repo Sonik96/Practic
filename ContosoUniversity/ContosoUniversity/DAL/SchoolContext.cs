@@ -4,9 +4,9 @@ using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
 using System.Web;
-using ContosoUniversity.Models;
+using Universyty.Models;
 
-namespace ContosoUniversity.DAL
+namespace Universyty.DAL
 {
     public class SchoolContext : DbContext
     {

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
-namespace ContosoUniversity.Models
+namespace Universyty.Models
 {
     public abstract class Person
     {

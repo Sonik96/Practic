@@ -5,7 +5,7 @@ using System.Data.Entity.SqlServer;
 using System.Linq;
 using System.Web;
 
-namespace ContosoUniversity.DAL
+namespace Universyty.DAL
 {
     public class SchoolConfiguration : DbConfiguration
     {

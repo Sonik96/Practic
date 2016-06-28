@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using ContosoUniversity.Models;
+using Universyty.Models;
 
-namespace ContosoUniversity.Migrations
+namespace Universyty.Migrations
 {
     using DAL;
     using System;
@@ -9,7 +9,7 @@ namespace ContosoUniversity.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ContosoUniversity.DAL.SchoolContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Universyty.DAL.SchoolContext>
     {
         public Configuration()
         {

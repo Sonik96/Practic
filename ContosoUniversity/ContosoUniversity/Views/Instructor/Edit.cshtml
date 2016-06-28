@@ -1,4 +1,4 @@
-﻿@model ContosoUniversity.Models.Instructor
+﻿@model Universyty.Models.Instructor
 
 @{
     ViewBag.Title = "Edit";
@@ -56,7 +56,7 @@
                     <tr>
                         @{
                             int cnt = 0;
-                            List<ContosoUniversity.ViewModels.AssignedCourseData> courses = ViewBag.Courses;
+                            List<Universyty.ViewModels.AssignedCourseData> courses = ViewBag.Courses;
 
                             foreach (var course in courses)
                             {

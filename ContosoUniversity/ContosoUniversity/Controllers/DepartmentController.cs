@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversity.DAL;
-using ContosoUniversity.Models;
+using Universyty.DAL;
+using Universyty.Models;
 using System.Data.Entity.Infrastructure;
 
-namespace ContosoUniversity.Controllers
+namespace Universyty.Controllers
 {
     public class DepartmentController : Controller
     {
